@@ -39,7 +39,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "pc-product-card",
+  "name": "pc-product-card-react-ts",
   "author": "paulccuno",
   "module": "dist/pc-product-card.esm.js",
   "size-limit": [
